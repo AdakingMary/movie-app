@@ -1,0 +1,13 @@
+Steo one
+-We Need a form
+Step Two
+-Creating a skeleton for the design
+Step Three
+-Styling the Website
+Step four
+-Connect our Javascript
+1- Target our input field and button
+2- Add a clique event to the search button
+3- Create an async function to help us in fetching the movie information
+4- Get the value that the user typed in the search input field
+
